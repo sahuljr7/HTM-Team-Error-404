@@ -37,12 +37,22 @@ const Work = () => (
       </P>
       <br/>
       <P>
+      We also use Covalent which provides a unified API bringing visibility to billions of Web3 data points.
+        <br/>
+      <Link href="https://www.covalenthq.com/" target="_blank">
+      Covalenthq.com <ExternalLinkIcon mx="2px" />
+        </Link>
+      </P>
+      <br/>
+      <P>
         For this project, I have done the following:
         <br/>
         <br/>
         ⭐ Setting up MetaMask Wallet
         <br/>
         ⭐ Setting up Moralis
+        <br/>
+        ⭐ Setting up Covalent
         <br/>
         ⭐ Setting up Next.js & Tailwind CSS
         <br/>
